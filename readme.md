@@ -1,7 +1,8 @@
 # 网新前沿：AR/VR class1
-PC端游戏导入开启过程录屏：[点击这里]()
+PC端游戏导入开启过程录屏：[点击这里下载查看](https://raw.githubusercontent.com/GITHUBLITTLECAT/AR-class1/master/20200319_204512.mp4)
 ## Unity3D\、JAVA、Andiold安装
 ![JAVA](https://upload-images.jianshu.io/upload_images/9455351-2b13cacd3054c19d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 这里我在课程前面已经安装成功，所以省略安装过程截图
 ## 导入项目，并将项目以pc端打开
  * 导入老师的炸弹游戏包
